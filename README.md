@@ -1,4 +1,4 @@
-# iBuiltThis - A community platform to showcase your work
+# BuildBeacon - A community platform to showcase your work
 
 A community platform where creators share what they've built and discover what's launching.
 
