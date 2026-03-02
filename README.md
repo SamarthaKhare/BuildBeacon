@@ -4,7 +4,7 @@
 
 **BuildBeacon** is a modern community platform where creators share their projects, discover new launches, and engage through real-time interactions.
 
-Whether it's an AI tool, SaaS product, app, or creative project — BuildBeacon helps ideas get visibility.
+
 
 ---
 
